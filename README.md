@@ -6,7 +6,7 @@ Este é um projeto de exemplo de uma aplicação de To-Do List desenvolvida usan
 
 ## Recursos
 
-- Cadastre tarefas a fazer.
+- Cadastre Usuarios e tarefas a fazer.
 - Atualize o status das tarefas (concluído ou pendente).
 - Exclua tarefas.
 - Visualize a lista de tarefas pendentes e concluídas.
